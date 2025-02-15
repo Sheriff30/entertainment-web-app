@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.mySwiper {
+  @apply !ml-0 !mr-0 h-[230px];
+}
